@@ -1,8 +1,11 @@
-# React + Vite
+# Destify
+## A website for choosing a perfect destination
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- It uses gemini api for your destination 
+- It takes some info from user and based on that suggest destination
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Note 
+- No api is shared , So please create a .env file in root folder and add the API key 
+- install node_modules
+
